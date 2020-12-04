@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 .bat
 *.bat
+2020/Day4/test.txt
+2020/Day4/results.txt
