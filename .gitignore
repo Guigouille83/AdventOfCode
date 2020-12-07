@@ -131,3 +131,4 @@ dmypy.json
 *.bat
 2020/Day4/test.txt
 2020/Day4/results.txt
+test.txt
